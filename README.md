@@ -80,9 +80,3 @@ Given monthly operating costs for two cities (Jerusalem and Bnei Brak), and a fi
 - SQL Server Management Studio (SSMS)
 
 ---
-
-## Contact
-For questions or submission:
-- Logsys Ltd.
-- [sales@logsys.co.il](mailto:sales@logsys.co.il)
-- +972-3-960-3277
